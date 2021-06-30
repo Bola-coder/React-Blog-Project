@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "How to become a better Web Developer",
+      "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Natus dignissimos unde eveniet ad consequatur, fuga adipisci quia magnam labore officiis quaerat deleniti at quas inventore sit minus fugiat, iusto explicabo!Lorem ipsum dolor sit amet consectetur, adipisicing elit. Natus dignissimos unde eveniet ad consequatur, fuga adipisci quia magnam labore officiis quaerat deleniti at quas inventore sit minus fugiat, iusto explicabo!Lorem ipsum dolor sit amet consectetur, adipisicing elit. Natus dignissimos unde eveniet eveniet ad consequatur, fuga adipisci quia magnam labore officiis quaerat deleniti at quas inventore sit minus fugiat, iusto explicabo!Lorem ipsum dolor sit amet consectetur, adipisicing elit. leniti at quas inventore sit minus fugiat, iusto explicabo!",
+      "author": "Bolarinwa",
+      "id": 0
+    },
+    {
+      "title": "Learning React has been interesting",
+      "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Natus dignissimos unde eveniet ad consequatur, fuga adipisci quia magnam labore officiis quaerat deleniti at quas inventore sit minus fugiat, iusto explicabo!Lorem ipsum dolor sit amet consectetur, adipisicing elit. Natus dignissimos unde eveniet ad consequatur, fuga adipisci quia magnam labore officiis quaerat deleniti at quas inventore sit minus fugiat, iusto explicabo!Lorem ipsum dolor sit amet consectetur, adipisicing elit. Natus dignissimos unde eveniet eveniet ad consequatur, fuga adipisci quia magnam labore officiis quaerat deleniti at quas inventore sit minus fugiat, iusto explicabo!Lorem ipsum dolor sit amet consectetur, adipisicing elit. leniti at quas inventore sit minus fugiat, iusto explicabo!",
+      "author": "Temidayo",
+      "id": 1
+    },
+    {
+      "title": "The Student Devloper",
+      "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Natus dignissimos unde eveniet ad consequatur, fuga adipisci quia magnam labore officiis quaerat deleniti at quas inventore sit minus fugiat, iusto explicabo!Lorem ipsum dolor sit amet consectetur, adipisicing elit. Natus dignissimos unde eveniet ad consequatur, fuga adipisci quia magnam labore officiis quaerat deleniti at quas inventore sit minus fugiat, iusto explicabo!Lorem ipsum dolor sit amet consectetur, adipisicing elit. Natus dignissimos unde eveniet eveniet ad consequatur, fuga adipisci quia magnam labore officiis quaerat deleniti at quas inventore sit minus fugiat, iusto explicabo!Lorem ipsum dolor sit amet consectetur, adipisicing elit. leniti at quas inventore sit minus fugiat, iusto explicabo!",
+      "author": "Bolarinwa",
+      "id": 2
+    },
+    {
+      "title": "Hello World ",
+      "body": "Hello World Program",
+      "author": "micheal",
+      "id": 3
+    }
+  ]
+}
